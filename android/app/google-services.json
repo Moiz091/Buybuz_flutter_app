@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467034985816",
+    "project_id": "market-place-912f8",
+    "storage_bucket": "market-place-912f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467034985816:android:21ae01f31af1206d34c12d",
+        "android_client_info": {
+          "package_name": "com.buybuz.mrktplace_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIq6FPOlq0kEEN2ZL7pUzBQKd_4KXxd3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
